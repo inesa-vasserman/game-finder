@@ -46,6 +46,10 @@ Be mindful of authoring your `HTML` footer section as there is lots of text. See
 
 Make sure to setup `eslint` as well as common plugins for `React`. Also, make sure to setup `eslint` plugin: `eslint-plugin-better-tailwindcss`.
 
+## Social Media Icons
+
+You can get the `svg` code for the design social media icons at [social-media](https://simpleicons.org)
+
 ## API Documentation
 
 > [!NOTE]
