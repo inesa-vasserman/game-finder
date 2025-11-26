@@ -42,6 +42,10 @@ The theme (light or dark) should be set based on user browser settings. See `des
 
 Be mindful of authoring your `HTML` footer section as there is lots of text. See `design/videos/footer-subscription-simulation.mp4` for subscription behaviour.
 
+## Project setup
+
+Make sure to setup `eslint` as well as common plugins for `React`. Also, make sure to setup `eslint` plugin: `eslint-plugin-better-tailwindcss`.
+
 ## API Documentation
 
 > [!NOTE]
